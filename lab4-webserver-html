@@ -1,0 +1,11 @@
+<html>
+  <head>
+    <title>My Web Page</title>
+  </head>
+  <body>
+    <h1>Header 1</h1>
+    <h2>Header 2</h2>
+    <p>This is a sample paragraph.</p>
+    <img src="https://blog.desdelinux.net/wp-content/uploads/2022/05/Nginx.jpg" alt="Nginx Image">
+  </body>
+</html>
